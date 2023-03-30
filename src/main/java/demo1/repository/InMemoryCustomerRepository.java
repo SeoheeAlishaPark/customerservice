@@ -1,5 +1,7 @@
 package demo1.repository;
 
+import demo1.model.Customer;
+
 import java.util.ArrayList;
 import java.util.List;
 

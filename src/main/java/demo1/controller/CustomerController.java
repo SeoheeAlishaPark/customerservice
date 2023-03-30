@@ -1,7 +1,8 @@
 package demo1.controller;
 
-import edu.p565.demo1.model.Customer;
-import edu.p565.demo1.repository.CustomerRepository;
+
+import demo1.model.Customer;
+import demo1.repository.CustomerRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
